@@ -1,9 +1,32 @@
 <h1 align="center">Hanniel Vinu</h1>
-<p align="center" float="left">
-  <a href="https://github.com/hannielvinu?tab=repositories">
+
+<table align="center">
+<tr>
+<td width="120" align="center">
+<div style="
+  height:260px;
+  width:6px;
+  background:linear-gradient(to bottom, #00f5ff, #9d00ff);
+  border-radius:10px;
+"></div>
+</td>
+
+<td align="center">
+<a href="https://github.com/hannielvinu?tab=repositories">
   <img src="./assets/background.gif" height="260" width="420"/>
-  </a>
-</p>
+</a>
+</td>
+
+<td width="120" align="center">
+<div style="
+  height:260px;
+  width:6px;
+  background:linear-gradient(to bottom, #9d00ff, #00f5ff);
+  border-radius:10px;
+"></div>
+</td>
+</tr>
+</table>
 <br>
 <h2 align="left">👨🏻‍💻 About Me: </h2>
     
