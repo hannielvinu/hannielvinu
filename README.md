@@ -24,6 +24,7 @@
 - <ins>Full-Stack Dev</ins> I find coding them to be so incredibly fullfilling.
 - <ins>UI/UX</ins> I find it like an hobby. Have lots and lots of prev works on it.
 - <ins>Datascience & AI/ML</ins>  Always feels more satisfying working on it.
+- <ins>Embedded Systems</ins> This is the real happiness, integrating both software and hardware, have multiple award winning projects.
 - <ins>DevOps</ins> and Cloud is something I'm not very proficient in but constantly learning and improving.
 - I do <ins>CyberSec</ins> for fun. CTFs is something I do in my free time.
 - Been in Multiple <ins>Leadership</ins> Roles & A <ins>Proficient Coder.</ins>
