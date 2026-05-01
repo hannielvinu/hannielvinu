@@ -3,12 +3,7 @@
 <table align="center">
 <tr>
 <td width="120" align="center">
-<div style="
-  height:260px;
-  width:6px;
-  background:linear-gradient(to bottom, #00f5ff, #9d00ff);
-  border-radius:10px;
-"></div>
+<div style="height:260px;width:6px;background:linear-gradient(to bottom, #00f5ff, #9d00ff);border-radius:10px;"></div>
 </td>
 
 <td align="center">
@@ -18,12 +13,7 @@
 </td>
 
 <td width="120" align="center">
-<div style="
-  height:260px;
-  width:6px;
-  background:linear-gradient(to bottom, #9d00ff, #00f5ff);
-  border-radius:10px;
-"></div>
+<div style="height:260px;width:6px;background:linear-gradient(to bottom, #9d00ff, #00f5ff);border-radius:10px;"></div>
 </td>
 </tr>
 </table>
