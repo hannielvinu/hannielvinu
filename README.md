@@ -1,4 +1,4 @@
-<h1 align="center">Hanniel Vinu</h1>
+<!--<h1 align="center">Hanniel Vinu</h1>
 
 <table align="center">
 <tr>
